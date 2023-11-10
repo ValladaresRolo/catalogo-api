@@ -1,0 +1,31 @@
+{
+    "dishes": [
+        {
+            "id": 1,
+            "name": "casuela",
+            "origen": "Chile"
+        },
+        {
+            "id": 2,
+            "name": "casuela del mal",
+            "origen": "puente alto"
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "name": "el librox",
+            "Author": "gato X"
+        },
+        {
+            "id": 3,
+            "name": "dragoo",
+            "Author": "sapbe logo"
+        },
+        {
+            "id": 3,
+            "name": "dragoo ff",
+            "Author": "sap"
+        }
+    ]
+}
